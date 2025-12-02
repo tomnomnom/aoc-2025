@@ -1,0 +1,3 @@
+# Advent of Code 2025
+
+Don't use these as examples of good code (:
